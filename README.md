@@ -1,2 +1,50 @@
-# sql-50-leetcode
-My solutions to LeetCode SQL 50 problems using SQL Server (T-SQL), with problem links and explanations.
+# SQL 50 — LeetCode Solutions
+
+My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/), completed as part of my SQL interview preparation.
+
+## Tech Stack
+
+* **Language:** SQL
+* **Database:** Microsoft SQL Server
+* **Dialect:** T-SQL
+* **Platform:** LeetCode
+
+## Topics Covered
+
+* Select
+* Basic Joins
+* Basic Aggregate Functions
+* Sorting and Grouping
+* Advanced Select and Joins
+* Subqueries
+* Advanced String Functions / Regex / Clause
+* Transactions and Conditional Logic
+
+## Progress Tracker
+
+**Problems Solved: 2/50**
+
+| Topic                                      | Problems Solved |
+| ------------------------------------------ | --------------: |
+| Select                                     |               2 |
+| Basic Joins                                |               0 |
+| Basic Aggregate Functions                  |               0 |
+| Sorting and Grouping                       |               0 |
+| Advanced Select and Joins                  |               0 |
+| Subqueries                                 |               0 |
+| Advanced String Functions / Regex / Clause |               0 |
+| Transactions and Conditional Logic         |               0 |
+| **Total**                                  |        **2/50** |
+
+## Solutions
+
+### Select
+
+1. [Recyclable and Low Fat Products](01-select/01-Recyclable-and-Low-Fat-Products.sql)
+2. [Find Customer Referee](01-select/02-Find-Customer-Referee.sql)
+
+## Goal
+
+Solve SQL problems consistently, understand the logic behind each query, and strengthen my SQL problem-solving skills for technical interviews.
+
+*This repository is updated regularly as I solve new problems.*
