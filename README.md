@@ -22,7 +22,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 ## Progress Tracker
 
-**Problems Solved: 2/50**
+**Problems Solved: 3/50**
 
 | Topic                                      | Problems Solved |
 | ------------------------------------------ | --------------: |
@@ -40,9 +40,9 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 ### Select
 
-1. [Recyclable and Low Fat Products](01-select/01-Recyclable-and-Low-Fat-Products.sql)
-2. [Find Customer Referee](01-select/02-Find-Customer-Referee.sql)
-3. [Big Countries](01-select/03-Big-Countries.sql)
+1. [Recyclable and Low Fat Products](01-SELECT/01-Recyclable-and-Low-Fat-Products.sql)
+2. [Find Customer Referee](01-SELECT/02-Find-Customer-Referee.sql)
+3. [Big Countries](01-SELECT/03-Big-Countries.sql)
 
 ## Goal
 
