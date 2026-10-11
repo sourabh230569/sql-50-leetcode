@@ -26,7 +26,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 | Topic                                      | Problems Solved |
 | ------------------------------------------ | --------------: |
-| Select                                     |               2 |
+| Select                                     |               3 |
 | Basic Joins                                |               0 |
 | Basic Aggregate Functions                  |               0 |
 | Sorting and Grouping                       |               0 |
@@ -34,7 +34,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 | Subqueries                                 |               0 |
 | Advanced String Functions / Regex / Clause |               0 |
 | Transactions and Conditional Logic         |               0 |
-| **Total**                                  |        **2/50** |
+| **Total**                                  |        **3/50** |
 
 ## Solutions
 
@@ -42,6 +42,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 1. [Recyclable and Low Fat Products](01-select/01-Recyclable-and-Low-Fat-Products.sql)
 2. [Find Customer Referee](01-select/02-Find-Customer-Referee.sql)
+3. [Big Countries](01-select/03-Big-Countries.sql)
 
 ## Goal
 
