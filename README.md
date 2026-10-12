@@ -22,11 +22,11 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 ## Progress Tracker
 
-**Problems Solved: 4/50**
+**Problems Solved: 5/50**
 
 | Topic                                      | Problems Solved |
 | ------------------------------------------ | --------------: |
-| Select                                     |               4 |
+| Select                                     |               5 |
 | Basic Joins                                |               0 |
 | Basic Aggregate Functions                  |               0 |
 | Sorting and Grouping                       |               0 |
@@ -34,7 +34,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 | Subqueries                                 |               0 |
 | Advanced String Functions / Regex / Clause |               0 |
 | Transactions and Conditional Logic         |               0 |
-| **Total**                                  |        **4/50** |
+| **Total**                                  |        **5/50** |
 
 ## Solutions
 
@@ -44,6 +44,7 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 2. [Find Customer Referee](01-SELECT/02-Find-Customer-Referee.sql)
 3. [Big Countries](01-SELECT/03-Big-Countries.sql)
 4. [Article Views I](01-SELECT/04-Article-Views-I.sql)
+5. [Invalid Tweets](01-SELECT/05-Invalid-Tweets.sql)
 
 ## Goal
 
