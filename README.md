@@ -22,19 +22,19 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 
 ## Progress Tracker
 
-**Problems Solved: 5/50**
+**Problems Solved: 6/50**
 
 | Topic                                      | Problems Solved |
 | ------------------------------------------ | --------------: |
 | Select                                     |               5 |
-| Basic Joins                                |               0 |
+| Basic Joins                                |               1 |
 | Basic Aggregate Functions                  |               0 |
 | Sorting and Grouping                       |               0 |
 | Advanced Select and Joins                  |               0 |
 | Subqueries                                 |               0 |
 | Advanced String Functions / Regex / Clause |               0 |
 | Transactions and Conditional Logic         |               0 |
-| **Total**                                  |        **5/50** |
+| **Total**                                  |        **6/50** |
 
 ## Solutions
 
@@ -45,6 +45,10 @@ My solutions to the [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/
 3. [Big Countries](01-SELECT/03-Big-Countries.sql)
 4. [Article Views I](01-SELECT/04-Article-Views-I.sql)
 5. [Invalid Tweets](01-SELECT/05-Invalid-Tweets.sql)
+
+### Basic Joins
+
+1. [Replace Employee ID With The Unique Identifier](02-BASIC-JOINS/06-Replace-Employee-ID-With-The-Unique-Identifier.sql)
 
 ## Goal
 
